@@ -12,3 +12,13 @@ Python, Pandas, LangChain
 
 ## Note
 API keys are removed for security.
+
+## How to Run
+
+1. Install dependencies:
+pip install pandas langchain langchain-openai
+
+2. Update API configuration in the code
+
+3. Run:
+python AI_CSV_QUERY.py
